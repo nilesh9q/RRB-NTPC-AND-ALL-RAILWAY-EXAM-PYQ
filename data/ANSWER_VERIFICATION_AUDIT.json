@@ -1,0 +1,425 @@
+{
+  "books": {
+    "Book 1": {
+      "records": 7174,
+      "pdfAnswerMatches": 6877,
+      "answerMismatchesFoundAndCorrected": 37,
+      "existingAnswerDisagreements": 37,
+      "unresolvedAnswerMatches": 297,
+      "chapterLabelsUpdatedFromPdfPageHeaders": 0
+    },
+    "Book 2": {
+      "records": 4893,
+      "pdfAnswerMatches": 4892,
+      "answerMismatchesFoundAndCorrected": 0,
+      "existingAnswerDisagreements": 0,
+      "unresolvedAnswerMatches": 1,
+      "chapterLabelsUpdatedFromPdfPageHeaders": 2100
+    },
+    "Book 3": {
+      "records": 4522,
+      "pdfAnswerMatches": 4520,
+      "answerMismatchesFoundAndCorrected": 0,
+      "existingAnswerDisagreements": 0,
+      "unresolvedAnswerMatches": 2,
+      "chapterLabelsUpdatedFromPdfPageHeaders": 2627
+    }
+  },
+  "notes": [
+    "PDF solution letter matching verifies the marked answer option only; it does not certify that OCR reconstructed the question/options correctly or that the explanation is factually correct."
+  ],
+  "totalRecords": 16589,
+  "byBook": {
+    "Book 1": 7174,
+    "Book 2": 4893,
+    "Book 3": 4522
+  },
+  "answerableWithFourOptions": 16497,
+  "recordsWithoutAutomatedFlags": 16071,
+  "duplicateFingerprintsAfterFirstOccurrence": 6,
+  "verificationStatus": {
+    "answer_matched_question_review_pending": 16289,
+    "pending_review": 288,
+    "needs_review": 12
+  },
+  "qualityIssues": {
+    "pdf_answer_match_needs_review": 300,
+    "blank_option": 84,
+    "duplicate_options": 138,
+    "answer_missing": 9
+  },
+  "answerVerification": {
+    "Book 1": {
+      "records": 7174,
+      "pdfAnswerMatches": 6877,
+      "answerMismatchesFoundAndCorrected": 37,
+      "existingAnswerDisagreements": 37,
+      "unresolvedAnswerMatches": 297,
+      "chapterLabelsUpdatedFromPdfPageHeaders": 0
+    },
+    "Book 2": {
+      "records": 4893,
+      "pdfAnswerMatches": 4892,
+      "answerMismatchesFoundAndCorrected": 0,
+      "existingAnswerDisagreements": 0,
+      "unresolvedAnswerMatches": 1,
+      "chapterLabelsUpdatedFromPdfPageHeaders": 2100
+    },
+    "Book 3": {
+      "records": 4522,
+      "pdfAnswerMatches": 4520,
+      "answerMismatchesFoundAndCorrected": 0,
+      "existingAnswerDisagreements": 0,
+      "unresolvedAnswerMatches": 2,
+      "chapterLabelsUpdatedFromPdfPageHeaders": 2627
+    }
+  },
+  "subjects": {
+    "Static GK": 906,
+    "Science and Technology": 233,
+    "Computer": 300,
+    "Current Affairs": 400,
+    "History": 639,
+    "Polity": 518,
+    "Geography": 734,
+    "Economics": 434,
+    "Physics": 963,
+    "Chemistry": 1008,
+    "Biology": 824,
+    "Environment": 215,
+    "Mathematics": 4893,
+    "General Intelligence & Reasoning": 4522
+  },
+  "chapterCounts": [
+    {
+      "subject": "Chemistry",
+      "chapter": "Needs classification",
+      "count": 1008
+    },
+    {
+      "subject": "Physics",
+      "chapter": "Needs classification",
+      "count": 963
+    },
+    {
+      "subject": "Static GK",
+      "chapter": "Needs classification",
+      "count": 906
+    },
+    {
+      "subject": "Biology",
+      "chapter": "Needs classification",
+      "count": 824
+    },
+    {
+      "subject": "Geography",
+      "chapter": "Needs classification",
+      "count": 734
+    },
+    {
+      "subject": "History",
+      "chapter": "Needs classification",
+      "count": 639
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Series",
+      "count": 590
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Coding - Decoding",
+      "count": 559
+    },
+    {
+      "subject": "Polity",
+      "chapter": "Needs classification",
+      "count": 518
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Analogy",
+      "count": 480
+    },
+    {
+      "subject": "Economics",
+      "chapter": "Needs classification",
+      "count": 434
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Simplification",
+      "count": 413
+    },
+    {
+      "subject": "Current Affairs",
+      "chapter": "Needs classification",
+      "count": 400
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "count": 395
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Number System",
+      "count": 375
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Profit and Loss",
+      "count": 318
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Geometry",
+      "count": 314
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Critical & logical Reasoning",
+      "count": 302
+    },
+    {
+      "subject": "Computer",
+      "chapter": "Needs classification",
+      "count": 300
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Ratio and Proportion",
+      "count": 292
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "count": 287
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Sitting Arrangement",
+      "count": 287
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "HCF and LCM",
+      "count": 260
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Percentage",
+      "count": 259
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Syllogism",
+      "count": 256
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Time Speed and Distance",
+      "count": 252
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Alphanumeric Series",
+      "count": 234
+    },
+    {
+      "subject": "Science and Technology",
+      "chapter": "Needs classification",
+      "count": 233
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Directions",
+      "count": 227
+    },
+    {
+      "subject": "Environment",
+      "chapter": "Needs classification",
+      "count": 215
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Simple Interest",
+      "count": 210
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Order and Ranking",
+      "count": 208
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Puzzle",
+      "count": 205
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Mathematical Operations",
+      "count": 200
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Average",
+      "count": 186
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mean, Median and Mode",
+      "count": 170
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Discount",
+      "count": 164
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Compound Interest",
+      "count": 164
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Blood Relation",
+      "count": 164
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Time and Work",
+      "count": 161
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Venn - Diagram",
+      "count": 157
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Age",
+      "count": 139
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "count": 134
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Missing Number",
+      "count": 117
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Word Arrangement",
+      "count": 111
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Pipes and Cistern",
+      "count": 98
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Inequality",
+      "count": 93
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Odd One Out",
+      "count": 88
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Calendar",
+      "count": 58
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Data Sufficiency",
+      "count": 53
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mixture and Alligation",
+      "count": 52
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "count": 52
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Partnership",
+      "count": 51
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Height and Distance",
+      "count": 48
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Counting of figures",
+      "count": 38
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Miscellaneous",
+      "count": 33
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Clock",
+      "count": 33
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "DI",
+      "count": 32
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Boat and Stream",
+      "count": 29
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Cube and Dice",
+      "count": 14
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Completion of Figures",
+      "count": 14
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Embedded Figures",
+      "count": 10
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Mirror / Water image",
+      "count": 10
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Miscellaneous",
+      "count": 9
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "count": 5
+    },
+    {
+      "subject": "General Intelligence & Reasoning",
+      "chapter": "Series Non - Verbal",
+      "count": 5
+    }
+  ]
+}

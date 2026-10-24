@@ -1,0 +1,35 @@
+RAILPREP PDF ANSWER VERIFICATION AUDIT
+=======================================
+
+Total source JSON records: 16589
+
+Book 1
+  records: 7174
+  pdfAnswerMatches: 6877
+  answerMismatchesFoundAndCorrected: 37
+  existingAnswerDisagreements: 37
+  unresolvedAnswerMatches: 297
+  chapterLabelsUpdatedFromPdfPageHeaders: 0
+
+Book 2
+  records: 4893
+  pdfAnswerMatches: 4892
+  answerMismatchesFoundAndCorrected: 0
+  existingAnswerDisagreements: 0
+  unresolvedAnswerMatches: 1
+  chapterLabelsUpdatedFromPdfPageHeaders: 2100
+
+Book 3
+  records: 4522
+  pdfAnswerMatches: 4520
+  answerMismatchesFoundAndCorrected: 0
+  existingAnswerDisagreements: 0
+  unresolvedAnswerMatches: 2
+  chapterLabelsUpdatedFromPdfPageHeaders: 2627
+
+Important limitations:
+- PDF answer letters were matched using the printed Sol.N.(option) marker on the same source page (Book 1) or the PDF page-header chapter plus question number (Books 2 and 3).
+- 37 Book 1 answer disagreements were corrected to the PDF solution marker.
+- Book 2 and Book 3 answer keys were populated only when the PDF mapping was unique.
+- A matched answer letter does not independently validate the extracted question text/options or the explanation.
+- Unmatched answers are left unverified / Needs review rather than guessed.

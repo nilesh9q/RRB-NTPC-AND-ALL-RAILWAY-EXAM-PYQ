@@ -1,0 +1,131 @@
+Classification audit
+
+Total records: 18325
+Needs review: 2456
+Classified/retained with source-derived or existing chapter: 15869
+
+Counts by subject > chapter:
+Computer > Needs review: 300
+Current Affairs > Needs review: 400
+Economics > Basics of economy: 165
+Economics > Concepts of demand and supply: 12
+Economics > Five-year plans: 8
+Economics > Government schemes: 28
+Economics > Money banking and financial institutions: 43
+Economics > National income, Inflation, Budget, Taxation and GDP: 45
+Economics > Needs review: 133
+Environment > Needs review: 215
+General Intelligence & Reasoning > Alphanumeric Series: 258
+General Intelligence & Reasoning > Analogy Verbal: 514
+General Intelligence & Reasoning > Blood Relation: 184
+General Intelligence & Reasoning > Calendar: 63
+General Intelligence & Reasoning > Clock: 15
+General Intelligence & Reasoning > Coding-Decoding: 627
+General Intelligence & Reasoning > Completion of Figure: 36
+General Intelligence & Reasoning > Counting of Figures: 39
+General Intelligence & Reasoning > Critical & logical reasoning: 412
+General Intelligence & Reasoning > Cube and Dice: 24
+General Intelligence & Reasoning > Data Sufficiency: 67
+General Intelligence & Reasoning > Directions: 316
+General Intelligence & Reasoning > Embedded Figure: 13
+General Intelligence & Reasoning > Inequality: 117
+General Intelligence & Reasoning > Mathematical Operations: 313
+General Intelligence & Reasoning > Mirror & Water Images: 39
+General Intelligence & Reasoning > Missing Number: 126
+General Intelligence & Reasoning > Odd One Out: 99
+General Intelligence & Reasoning > Order & Ranking: 234
+General Intelligence & Reasoning > Paper Cut & Fold: 1
+General Intelligence & Reasoning > Puzzle: 240
+General Intelligence & Reasoning > Series: 633
+General Intelligence & Reasoning > Sitting Arrangement: 337
+General Intelligence & Reasoning > Syllogism: 298
+General Intelligence & Reasoning > Venn Diagram: 273
+General Science > Biology: 824
+General Science > Chemistry: 1008
+General Science > Physics: 963
+Geography > Agriculture: 81
+Geography > Atmosphere: 5
+Geography > Climate: 44
+Geography > Continents and oceans: 54
+Geography > Indian drainage system: 150
+Geography > Longitudes and latitudes: 37
+Geography > Mineral and energy resources in India: 27
+Geography > Needs review: 118
+Geography > Neighbouring countries of India: 24
+Geography > Physiographic division of India: 58
+Geography > Population: 74
+Geography > Rocks: 5
+Geography > Soils: 10
+Geography > Solar system and its planets: 26
+Geography > Vegetation: 15
+Geography > Volcano and Earthquake: 6
+History > Buddhism: 38
+History > Delhi Sultanate: 26
+History > Gandhian Era: 38
+History > Gupta Dynasty: 32
+History > Indian National Congress and its sessions: 27
+History > Jainism: 25
+History > Mauryan Dynasty: 35
+History > Mughal period: 40
+History > Needs review: 247
+History > Prehistoric And Indus Valley: 33
+History > Socio religious reforms: 30
+History > The Revolt of 1857: 51
+History > Vedic Age: 17
+Mathematics > Age: 152
+Mathematics > Algebra: 364
+Mathematics > Average: 202
+Mathematics > Boat and Stream: 31
+Mathematics > Compound Interest: 183
+Mathematics > Data Interpretation: 241
+Mathematics > Discount: 114
+Mathematics > Geometry: 414
+Mathematics > HCF and LCM: 293
+Mathematics > Height and Distance: 59
+Mathematics > Mensuration: 455
+Mathematics > Mixture and Alligation: 56
+Mathematics > Number System: 434
+Mathematics > Partnership: 57
+Mathematics > Percentage: 352
+Mathematics > Pipe and Cistern: 119
+Mathematics > Probability: 74
+Mathematics > Profit and Loss: 346
+Mathematics > Ratio and Proportion: 343
+Mathematics > Simple Interest: 235
+Mathematics > Simplification: 587
+Mathematics > Time and Work: 218
+Mathematics > Time, Speed and Distance: 286
+Mathematics > Trigonometry: 258
+Polity > Amendments: 54
+Polity > Article, Schedule, Parts and list: 253
+Polity > Constitution: 59
+Polity > Fundamental Rights and Duties: 10
+Polity > Government Bodies: 3
+Polity > Needs review: 92
+Polity > Parliament: 27
+Polity > President, Vice President and Prime Minister: 16
+Polity > Sources of Indian Constitution: 4
+Science and Technology > Needs review: 233
+Static GK > Art Personality: 14
+Static GK > Awards: 22
+Static GK > Books and authors: 92
+Static GK > Dance: 61
+Static GK > Entertainment: 2
+Static GK > Fairs: 2
+Static GK > Famous Personality: 9
+Static GK > Festivals: 105
+Static GK > First in India/World: 35
+Static GK > Founder: 9
+Static GK > Full form: 5
+Static GK > Important Days: 20
+Static GK > Languages: 35
+Static GK > Musical Instruments: 29
+Static GK > Needs review: 173
+Static GK > Organisation: 116
+Static GK > Painting/ Dress/ Tribes: 16
+Static GK > Religious Places: 24
+Static GK > Schemes: 27
+Static GK > Songs: 24
+Static GK > Sports: 42
+Static GK > States G.K.: 13
+Static GK > World G.K.: 31

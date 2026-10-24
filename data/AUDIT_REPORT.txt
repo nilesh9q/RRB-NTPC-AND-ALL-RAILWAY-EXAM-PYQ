@@ -1,0 +1,34 @@
+RAILPREP QUESTION BANK — AUTOMATED REVIEW REPORT
+
+Total retained records: 18325
+By book: {'Book 1': 7174, 'Book 2': 5873, 'Book 3': 5278}
+Records with four options and an extracted answer: 7085
+Records without automated quality flags: 7050
+Duplicate fingerprints after first occurrence (retained, flagged): 12
+
+IMPORTANT: This is a structural/heuristic review, not human verification of the answer key or historical authenticity. No missing answers were guessed.
+
+Quality flags:
+- answer_missing: 11194
+- explanation_missing: 11151
+- option_count_not_four: 1063
+- blank_option: 766
+- duplicate_options: 154
+- duplicate_record: 12
+- possible_footer_noise: 2
+
+Top subjects:
+- Mathematics: 5873
+- General Intelligence & Reasoning: 5278
+- Chemistry: 1008
+- Physics: 963
+- Static GK: 906
+- Biology: 824
+- Geography: 734
+- History: 639
+- Polity: 518
+- Economics: 434
+- Current Affairs: 400
+- Computer: 300
+- Science and Technology: 233
+- Environment: 215
