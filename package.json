@@ -1,0 +1,16 @@
+{
+  "name": "railprep-rrb-ntpc-question-bank",
+  "version": "2.1.0",
+  "private": true,
+  "description": "RRB NTPC question bank with PDF-matched answer keys, performance meter, and optional local Ollama AI",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.21.2"
+  }
+}
